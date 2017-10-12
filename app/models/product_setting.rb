@@ -1,0 +1,4 @@
+class ProductSetting < ApplicationRecord
+
+	
+end
